@@ -112,7 +112,7 @@ section{
 
 .home-content  .text-animate{
     position: relative;
-    width: 44rem;
+    width: 37rem;
 }
 
 .home-content  .text-animate h3{
@@ -832,7 +832,7 @@ span{
 /* KEYFRAMES ANIMATION */
 @keyframes homeBgText{
     0%, 10%, 100% {
-        background-position: -44rem 0;
+        background-position: -37rem 0;
     }
     65%, 
     85% {
@@ -861,4 +861,5 @@ span{
     100%{
         transform: translate(-50%, -50%) rotate(360deg);
     }
+
 }
