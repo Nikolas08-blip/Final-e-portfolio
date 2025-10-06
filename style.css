@@ -96,7 +96,7 @@ section{
     height: 270px;
     width: 270px;
     padding: 1rem;
-    margin-left: 33rem;
+    margin-left: 29rem;
     border: .2rem solid var(--main-color);
 }
 
@@ -864,4 +864,5 @@ span{
     }
 
 }
+
 
